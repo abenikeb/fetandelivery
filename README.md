@@ -9,7 +9,8 @@ An Ecommerce platform mobile and web app built in React, React native and NodeJS
 ## Introduction
 FETAN is an on-demand grocery delivery platform facilitating doorstep deliveries of groceries and other home essentials in Addis Ababa. The technology-driven business model of FETAN boosts of delivering groceries to customers in as little as 1 hour, making it one of the most promising and futuristic company of Ethiopia which is based on sharing economy model
 
-![Software Developer](https://github.com/abenikeb/fetandelivery/blob/main/fetan_mock_2.png)
+<!-- ![Software Developer](https://github.com/abenikeb/fetandelivery/blob/main/fetan_mock_2.png) -->
+<img src="https://github.com/abenikeb/fetandelivery/blob/main/fetan_mock_2.png" />
 	
 ## Technologies
 Project is created with:
