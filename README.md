@@ -1,3 +1,6 @@
+![Software Developer](https://github.com/abenikeb/abenikeb/blob/main/My_first_banner_small.png)
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
