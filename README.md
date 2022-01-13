@@ -1,30 +1,24 @@
-![Software Developer](https://github.com/abenikeb/abenikeb/blob/main/My_first_banner_small.png)
-
+# Fetan - Delivery Service App 
+An Ecommerce platform mobile and web app built in React, React native and NodeJS 
 
 ## Table of contents
-* [General info](#general-info)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Introduction
+FETAN is an on-demand grocery delivery platform facilitating doorstep deliveries of groceries and other home essentials in Addis Ababa. The technology-driven business model of FETAN boosts of delivering groceries to customers in as little as 1 hour, making it one of the most promising and futuristic company of Ethiopia which is based on sharing economy model
+
+![Software Developer](https://github.com/abenikeb/fetandelivery/blob/main/fetan_mock_2.png)
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-
-
-## Introduction
-
-fetandelivery |
-ፈጣን በአዲስ አበባ ውስጥ የሚገኝ የምግብ ሸቀጣ ሸቀጦችን እና ሌሎች አስፈላጊ የቤት ነገሮችን የእጅ ስልክ መተግበሪያ በመጠቀም ባሉበት ድረስ ማቅረብ የሚያስችል የግሮሰሪ ወይም አስቤዛ ማቅረቢያ የኦንላይን አገልግሎት መድረክ ነው።ይህ በዲጅታል ቴክኖሎጂ የሚመራው የፈጣን ኦንላይን ንግድ ሸቀጣ ሸቀጦችን በ አንድ(1) ሰዓት ውስጥ ለደንበኞች ማድረስን ያስችላል ፣ ይህም በጣም ተስፋ ሰጭ እንዲሆን ያደርገዋል በተጨማሪም በኢኮኖሚ ሞዴል ማጋራት ላይ የተመሠረተ የወደፊቱ የኢትዮጵያ ትልቅ ኩባንያ ነው።
-
-FETAN is an on-demand grocery delivery platform facilitating doorstep deliveries of groceries and other home essentials in Addis Ababa. The technology-driven business model of FETAN boosts of delivering groceries to customers in as little as 1 hour, making it one of the most promising and futuristic company of Ethiopia which is based on sharing economy model
-
-
-This is the implementation of fetandelivery in Node.js.
+* ⚛ React
+* 📱 React Native
+* 🖥 Type Script
+* 🖥 HTML, CSS & JS
+* 🖥 Node JS & Express JS
+* 💻 Mongo DB
 
 ## Setup
 
