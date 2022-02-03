@@ -17,9 +17,9 @@ FETAN is an on-demand grocery delivery platform facilitating doorstep deliveries
 Project is created with:
 * ⚛ React
 * 📱 React Native
-* 🖥 Type Script
+* 🖥 TypeScript 
 * 🖥 HTML, CSS & JS
-* 🖥 Node JS & Express JS
+* 🖥 Node JS 
 * 💻 Mongo DB
 
 ## Setup
@@ -62,7 +62,7 @@ Open up your browser and head over to:
 
 http://localhost:3900/api/
 
-You should see the list of genres. That confirms that you have set up everything successfully.
+You should see the list of items. That confirms that you have set up everything successfully.
 
 
 
